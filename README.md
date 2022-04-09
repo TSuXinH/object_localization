@@ -22,4 +22,4 @@ Localization result(mp4 file): [here](https://github.com/TSuXinH/object_localiza
 
 Screenshot: 
 
-![image]()
+![image](https://github.com/TSuXinH/object_localization/blob/master/final/YOLO_like/test_result.png)
