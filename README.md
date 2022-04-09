@@ -18,4 +18,8 @@ Resnet backbone + YOLO structure
 
 #### Result:
 
-Localization result: [here](https://github.com/TSuXinH/object_localization/blob/master/final/YOLO_like/test.mp4)
+Localization result(mp4 file): [here](https://github.com/TSuXinH/object_localization/blob/master/final/YOLO_like/test.mp4)
+
+Screenshot: 
+
+![image]()
