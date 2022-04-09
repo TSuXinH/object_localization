@@ -18,4 +18,4 @@ Resnet backbone + YOLO structure
 
 #### Result:
 
-Localization result: (here)[https://github.com/TSuXinH/object_localization/blob/master/final/YOLO_like/all_train.mp4]
+Localization result: [here](https://github.com/TSuXinH/object_localization/blob/master/final/YOLO_like/all_train.mp4)
