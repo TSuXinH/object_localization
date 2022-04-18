@@ -20,7 +20,7 @@ Resnet backbone + YOLO structure
 
 Localization result(mp4 file): [here](https://github.com/TSuXinH/object_localization/blob/master/final/YOLO_like/test.mp4)
 
-Screenshot: 
+#### Screenshot: 
 
 <p>
     <img src='https://github.com/TSuXinH/object_localization/blob/master/final/YOLO_like/test_result.png' width='240' height='160'>
